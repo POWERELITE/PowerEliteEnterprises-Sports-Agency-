@@ -1,0 +1,8 @@
+{
+  "name": "Power Elite Pro Sports Agency",
+  "description": "A high-authority sports agency platform led by Elliott Johnson, Esq., combining elite recruiting strategy, NIL monetization, and attorney-backed legal protection.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
